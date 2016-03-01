@@ -1,1 +1,1 @@
-“Hello, world! I am getting git”
+Hello, world! I am getting git
